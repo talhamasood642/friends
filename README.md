@@ -1,1 +1,2 @@
-# friends
+# freinds-app
+ 
